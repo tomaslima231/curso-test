@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Curso Test
 
 You can use the [editor on GitHub](https://github.com/tomaslima231/curso-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
